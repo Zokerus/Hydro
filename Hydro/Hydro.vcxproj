@@ -11,12 +11,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Hydro\Log.h" />
     <ClInclude Include="src\Hydro.h" />
     <ClInclude Include="src\Hydro\Application.h" />
     <ClInclude Include="src\Hydro\Core.h" />
     <ClInclude Include="src\Hydro\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\Hydro\Log.cpp" />
     <ClCompile Include="src\Hydro\Application.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -67,6 +69,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>HD_PLATFORM_WINDOWS;HD_BUILD_DLL;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)Hydro\vendor\spdlog\include;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -81,6 +84,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>HD_PLATFORM_WINDOWS;HD_BUILD_DLL;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)Hydro\vendor\spdlog\include;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

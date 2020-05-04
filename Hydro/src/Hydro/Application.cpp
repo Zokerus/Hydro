@@ -1,4 +1,7 @@
+#include "pch.h"
+
 #include "Application.h"
+
 
 #include "Hydro/Events/ApplicationEvent.h"
 #include "Hydro/Log.h"

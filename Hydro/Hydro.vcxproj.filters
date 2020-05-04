@@ -4,6 +4,9 @@
     <Filter Include="Hydro">
       <UniqueIdentifier>{CBF6590D-370B-82BE-008D-251E6C607EEF}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Hydro\Events">
+      <UniqueIdentifier>{4FB072D5-3B13-027A-E498-3A30D0DACDFC}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Hydro.h" />
@@ -16,13 +19,22 @@
     <ClInclude Include="src\Hydro\EntryPoint.h">
       <Filter>Hydro</Filter>
     </ClInclude>
+    <ClInclude Include="src\Hydro\Events\ApplicationEvent.h">
+      <Filter>Hydro\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hydro\Events\Event.h">
+      <Filter>Hydro\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hydro\Events\KeyEvent.h">
+      <Filter>Hydro\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hydro\Events\MouseEvent.h">
+      <Filter>Hydro\Events</Filter>
+    </ClInclude>
     <ClInclude Include="src\Hydro\Log.h">
       <Filter>Hydro</Filter>
     </ClInclude>
-    <ClInclude Include="src\Hydro\Events\Event.h" />
-    <ClInclude Include="src\Hydro\Events\KeyEvent.h" />
-    <ClInclude Include="src\Hydro\Events\MouseEvent.h" />
-    <ClInclude Include="src\Hydro\Events\ApplicationEvent.h" />
+    <ClInclude Include="src\pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Hydro\Application.cpp">
@@ -31,5 +43,6 @@
     <ClCompile Include="src\Hydro\Log.cpp">
       <Filter>Hydro</Filter>
     </ClCompile>
+    <ClCompile Include="src\pch.cpp" />
   </ItemGroup>
 </Project>

@@ -1,9 +1,7 @@
 #pragma once
+#include "pch.h"
 
 #include "Hydro/Core.h"
-
-#include <string>
-#include <functional>
 
 namespace Hydro {
 	//At this stage the event system is a blocking type, this means a raised event has to handled

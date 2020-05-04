@@ -2,8 +2,6 @@
 
 #include "Event.h"
 
-#include <sstream>
-
 namespace Hydro {
 	class HYDRO_API MouseMovedEvent : public Event
 	{

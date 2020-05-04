@@ -9,6 +9,8 @@ workspace "Hydro"
 	}
 	
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
+
+startproject "Sandbox"
 	
 project "Hydro"
 	location "Hydro"

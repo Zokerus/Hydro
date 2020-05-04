@@ -19,6 +19,10 @@
     <ClInclude Include="src\Hydro\Log.h">
       <Filter>Hydro</Filter>
     </ClInclude>
+    <ClInclude Include="src\Hydro\Events\Event.h" />
+    <ClInclude Include="src\Hydro\Events\KeyEvent.h" />
+    <ClInclude Include="src\Hydro\Events\MouseEvent.h" />
+    <ClInclude Include="src\Hydro\Events\ApplicationEvent.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Hydro\Application.cpp">

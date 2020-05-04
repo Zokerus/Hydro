@@ -21,15 +21,15 @@ namespace Hydro {
 }
 
 // Core log macros
-#define HZ_CORE_TRACE(...)    ::Hazel::Log::GetCoreLogger()->trace(__VA_ARGS__)
-#define HZ_CORE_INFO(...)     ::Hazel::Log::GetCoreLogger()->info(__VA_ARGS__)
-#define HZ_CORE_WARN(...)     ::Hazel::Log::GetCoreLogger()->warn(__VA_ARGS__)
-#define HZ_CORE_ERROR(...)    ::Hazel::Log::GetCoreLogger()->error(__VA_ARGS__)
-#define HZ_CORE_CRITICAL(...) ::Hazel::Log::GetCoreLogger()->critical(__VA_ARGS__)
+#define HD_CORE_TRACE(...)    ::Hydro::Log::GetCoreLogger()->trace(__VA_ARGS__)
+#define HD_CORE_INFO(...)     ::Hydro::Log::GetCoreLogger()->info(__VA_ARGS__)
+#define HD_CORE_WARN(...)     ::Hydro::Log::GetCoreLogger()->warn(__VA_ARGS__)
+#define HD_CORE_ERROR(...)    ::Hydro::Log::GetCoreLogger()->error(__VA_ARGS__)
+#define HD_CORE_CRITICAL(...) ::Hydro::Log::GetCoreLogger()->critical(__VA_ARGS__)
 
 // Client log macros
-#define HZ_TRACE(...)         ::Hazel::Log::GetClientLogger()->trace(__VA_ARGS__)
-#define HZ_INFO(...)          ::Hazel::Log::GetClientLogger()->info(__VA_ARGS__)
-#define HZ_WARN(...)          ::Hazel::Log::GetClientLogger()->warn(__VA_ARGS__)
-#define HZ_ERROR(...)         ::Hazel::Log::GetClientLogger()->error(__VA_ARGS__)
-#define HZ_CRITICAL(...)      ::Hazel::Log::GetClientLogger()->critical(__VA_ARGS__)
+#define HD_TRACE(...)         ::Hydro::Log::GetClientLogger()->trace(__VA_ARGS__)
+#define HD_INFO(...)          ::Hydro::Log::GetClientLogger()->info(__VA_ARGS__)
+#define HD_WARN(...)          ::Hydro::Log::GetClientLogger()->warn(__VA_ARGS__)
+#define HD_ERROR(...)         ::Hydro::Log::GetClientLogger()->error(__VA_ARGS__)
+#define HD_CRITICAL(...)      ::Hydro::Log::GetClientLogger()->critical(__VA_ARGS__)

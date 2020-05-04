@@ -9,3 +9,5 @@
 #else
 	#error HYdro only supports Windows!
 #endif // HD_PLATFORM_WINDOWS
+
+#define BIT(x) (1 << x)

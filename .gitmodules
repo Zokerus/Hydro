@@ -3,4 +3,4 @@
 	url = https://github.com/gabime/spdlog
 [submodule "Hydro/vendor/GLFW"]
 	path = Hydro/vendor/GLFW
-	url = https://github.com/glfw/glfw.git
+	url = git@github.com:Zokerus/glfw.git

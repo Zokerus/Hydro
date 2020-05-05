@@ -1,3 +1,52 @@
-[09:35:44] [warning] HYDRO: Initialized Log!
-[09:35:44] [info] APP: Hello!
-[09:35:44] [info] HYDRO: Creating window Hydro Game Engine (1280, 720)
+[20:06:56] [warning] HYDRO: Initialized Log!
+[20:06:56] [info] APP: Hello!
+[20:06:56] [info] HYDRO: Creating window Hydro Game Engine (1280, 720)
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 607, 287
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 607, 281
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 608, 280
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 615, 254
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 616, 252
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 617, 249
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 624, 200
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 625, 148
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 614, 108
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 613, 106
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 602, 77
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 593, 55
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 593, 54
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 586, 38
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 586, 37
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 582, 27
+[20:06:57] [trace] HYDRO: MouseMovedEvent: 580, 23
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 579, 22
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 579, 20
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 579, 19
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 578, 15
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 578, 7
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 577, 0
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 416, 5
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 337, 6
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 333, 6
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 250, 8
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 244, 8
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 154, 15
+[20:06:58] [trace] HYDRO: MouseMovedEvent: 65, 21
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 636, 0
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 637, 0
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 639, 0
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 643, 2
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 644, 2
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 649, 3
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 655, 4
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 660, 5
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 664, 5
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 668, 6
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 672, 6
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 673, 6
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 677, 7
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 680, 8
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 681, 8
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 683, 7
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 684, 3
+[20:07:01] [trace] HYDRO: MouseMovedEvent: 684, 1
+[20:07:04] [trace] HYDRO: WindowClose

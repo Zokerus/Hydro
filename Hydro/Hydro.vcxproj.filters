@@ -37,6 +37,12 @@
     <ClInclude Include="src\Hydro\Events\MouseEvent.h">
       <Filter>Hydro\Events</Filter>
     </ClInclude>
+    <ClInclude Include="src\Hydro\Layer.h">
+      <Filter>Hydro</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hydro\LayerStack.h">
+      <Filter>Hydro</Filter>
+    </ClInclude>
     <ClInclude Include="src\Hydro\Log.h">
       <Filter>Hydro</Filter>
     </ClInclude>
@@ -50,6 +56,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Hydro\Application.cpp">
+      <Filter>Hydro</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hydro\Layer.cpp">
+      <Filter>Hydro</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hydro\LayerStack.cpp">
       <Filter>Hydro</Filter>
     </ClCompile>
     <ClCompile Include="src\Hydro\Log.cpp">

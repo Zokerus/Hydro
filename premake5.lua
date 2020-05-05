@@ -61,14 +61,17 @@ project "Hydro"
 		
 	filter "configurations:Debug"
 		defines "HD_DEBUG"
+		buildoptions "/MDd"
 		symbols "On"
 		
 	filter "configurations:Release"
 		defines "HD_RELEASE"
+		buildoptions "/MD"
 		optimize "On"
 		
 	filter "configurations:Dist"
 		defines "HD_DIST"
+		buildoptions "/MD"
 		optimize "On"
 		
 project "Sandbox"
@@ -113,12 +116,15 @@ project "Sandbox"
 		
 	filter "configurations:Debug"
 		defines "HD_DEBUG"
+		buildoptions "/MDd"
 		symbols "On"
 		
 	filter "configurations:Release"
 		defines "HD_RELEASE"
+		buildoptions "/MD"
 		optimize "On"
 		
 	filter "configurations:Dist"
 		defines "HD_DIST"
+		buildoptions "/MD"
 		optimize "On"

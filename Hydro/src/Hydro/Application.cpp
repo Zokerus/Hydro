@@ -6,9 +6,12 @@
 #include "Hydro/Events/ApplicationEvent.h"
 #include "Hydro/Log.h"
 
+#include <GLFW/glfw3.h>
+
 namespace Hydro {
 	Application::Application()
 	{
+		m_Window = std::unique_ptr<Window>(Window::Create());
 	}
 
 	Application::~Application()
@@ -16,15 +19,11 @@ namespace Hydro {
 	}
 	void Application::Run()
 	{
-		WindowResizeEvent e(1280, 720);
-		if (e.IsInCategory(EventApplication))
+		while (m_Running)
 		{
-			HD_TRACE(e);
+			glClearColor(1, 0, 1, 1);
+			glClear(GL_COLOR_BUFFER_BIT);
+			m_Window->OnUpdate();
 		}
-		if (e.IsInCategory(EventInput))
-		{
-			HD_TRACE(e);
-		}
-		while (true);
 	}
 }

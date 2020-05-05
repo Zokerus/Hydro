@@ -10,7 +10,13 @@ workspace "Hydro"
 	
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
-startproject "Sandbox"
+-- Include directories relative to root directory
+IncludeDir = {}
+IncludeDir["GLFW"] = "Hydro/vendor/GLFW/include"
+
+include "Hydro/vendor/GLFW"
+
+-- startproject "Sandbox"
 	
 project "Hydro"
 	location "Hydro"
@@ -32,7 +38,14 @@ project "Hydro"
 	includedirs 
 	{
 		"%{prj.name}/src",
-		"%{prj.name}/vendor/spdlog/include"
+		"%{prj.name}/vendor/spdlog/include",
+		"%{IncludeDir.GLFW}"
+	}
+	
+	links
+	{
+		"GLFW",
+		"opengl32.lib"
 	}
 	
 	filter "system:windows"

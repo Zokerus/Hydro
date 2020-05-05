@@ -149,17 +149,17 @@
     <ClInclude Include="src\Hydro\Events\KeyEvent.h" />
     <ClInclude Include="src\Hydro\Events\MouseEvent.h" />
     <ClInclude Include="src\Hydro\Log.h" />
-    <ClInclude Include="src\pch.h" />
-    <ClInclude Include="src\Platform\Windows\WindowsWindow.h" />
     <ClInclude Include="src\Hydro\Window.h" />
+    <ClInclude Include="src\Platform\Windows\WindowsWindow.h" />
+    <ClInclude Include="src\pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Hydro\Application.cpp" />
     <ClCompile Include="src\Hydro\Log.cpp" />
+    <ClCompile Include="src\Platform\Windows\WindowsWindow.cpp" />
     <ClCompile Include="src\pch.cpp">
       <PrecompiledHeader>Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="src\Platform\Windows\WindowsWindow.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="vendor\GLFW\GLFW.vcxproj">

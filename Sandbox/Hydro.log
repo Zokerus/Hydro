@@ -1,3 +1,275 @@
-[15:35:38] [warning] HYDRO: Initialized Log!
-[15:35:38] [info] APP: Hello!
-[15:35:38] [info] HYDRO: Creating window Hydro Game Engine (1280, 720)
+[19:48:14] [warning] HYDRO: Initialized Log!
+[19:48:14] [info] APP: Hello!
+[19:48:14] [info] HYDRO: Creating window Hydro Game Engine (1280, 720)
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [trace] HYDRO: MouseMovedEvent: 705, 172
+[19:48:14] [trace] APP: MouseMovedEvent: 705, 172
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:14] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 708, 170
+[19:48:15] [trace] APP: MouseMovedEvent: 708, 170
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 709, 169
+[19:48:15] [trace] APP: MouseMovedEvent: 709, 169
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 710, 169
+[19:48:15] [trace] APP: MouseMovedEvent: 710, 169
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 710, 168
+[19:48:15] [trace] APP: MouseMovedEvent: 710, 168
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 711, 168
+[19:48:15] [trace] APP: MouseMovedEvent: 711, 168
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 720, 162
+[19:48:15] [trace] APP: MouseMovedEvent: 720, 162
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 721, 162
+[19:48:15] [trace] APP: MouseMovedEvent: 721, 162
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 722, 162
+[19:48:15] [trace] APP: MouseMovedEvent: 722, 162
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 723, 161
+[19:48:15] [trace] APP: MouseMovedEvent: 723, 161
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 725, 160
+[19:48:15] [trace] APP: MouseMovedEvent: 725, 160
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 738, 153
+[19:48:15] [trace] APP: MouseMovedEvent: 738, 153
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 739, 151
+[19:48:15] [trace] APP: MouseMovedEvent: 739, 151
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 741, 151
+[19:48:15] [trace] APP: MouseMovedEvent: 741, 151
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 742, 150
+[19:48:15] [trace] APP: MouseMovedEvent: 742, 150
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 746, 148
+[19:48:15] [trace] APP: MouseMovedEvent: 746, 148
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 747, 147
+[19:48:15] [trace] APP: MouseMovedEvent: 747, 147
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 749, 146
+[19:48:15] [trace] APP: MouseMovedEvent: 749, 146
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 751, 145
+[19:48:15] [trace] APP: MouseMovedEvent: 751, 145
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 754, 144
+[19:48:15] [trace] APP: MouseMovedEvent: 754, 144
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 755, 142
+[19:48:15] [trace] APP: MouseMovedEvent: 755, 142
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 757, 141
+[19:48:15] [trace] APP: MouseMovedEvent: 757, 141
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 760, 140
+[19:48:15] [trace] APP: MouseMovedEvent: 760, 140
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 776, 131
+[19:48:15] [trace] APP: MouseMovedEvent: 776, 131
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 778, 129
+[19:48:15] [trace] APP: MouseMovedEvent: 778, 129
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 781, 128
+[19:48:15] [trace] APP: MouseMovedEvent: 781, 128
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 783, 125
+[19:48:15] [trace] APP: MouseMovedEvent: 783, 125
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 786, 124
+[19:48:15] [trace] APP: MouseMovedEvent: 786, 124
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 791, 121
+[19:48:15] [trace] APP: MouseMovedEvent: 791, 121
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 793, 120
+[19:48:15] [trace] APP: MouseMovedEvent: 793, 120
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 796, 117
+[19:48:15] [trace] APP: MouseMovedEvent: 796, 117
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 799, 116
+[19:48:15] [trace] APP: MouseMovedEvent: 799, 116
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 803, 114
+[19:48:15] [trace] APP: MouseMovedEvent: 803, 114
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 805, 113
+[19:48:15] [trace] APP: MouseMovedEvent: 805, 113
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 807, 111
+[19:48:15] [trace] APP: MouseMovedEvent: 807, 111
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 811, 109
+[19:48:15] [trace] APP: MouseMovedEvent: 811, 109
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 817, 105
+[19:48:15] [trace] APP: MouseMovedEvent: 817, 105
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 822, 104
+[19:48:15] [trace] APP: MouseMovedEvent: 822, 104
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 828, 100
+[19:48:15] [trace] APP: MouseMovedEvent: 828, 100
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 831, 99
+[19:48:15] [trace] APP: MouseMovedEvent: 831, 99
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 836, 97
+[19:48:15] [trace] APP: MouseMovedEvent: 836, 97
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 885, 76
+[19:48:15] [trace] APP: MouseMovedEvent: 885, 76
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 893, 72
+[19:48:15] [trace] APP: MouseMovedEvent: 893, 72
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 898, 70
+[19:48:15] [trace] APP: MouseMovedEvent: 898, 70
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 902, 69
+[19:48:15] [trace] APP: MouseMovedEvent: 902, 69
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 907, 67
+[19:48:15] [trace] APP: MouseMovedEvent: 907, 67
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 911, 65
+[19:48:15] [trace] APP: MouseMovedEvent: 911, 65
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 914, 64
+[19:48:15] [trace] APP: MouseMovedEvent: 914, 64
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 963, 49
+[19:48:15] [trace] APP: MouseMovedEvent: 963, 49
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 968, 47
+[19:48:15] [trace] APP: MouseMovedEvent: 968, 47
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 973, 46
+[19:48:15] [trace] APP: MouseMovedEvent: 973, 46
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 979, 45
+[19:48:15] [trace] APP: MouseMovedEvent: 979, 45
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 985, 44
+[19:48:15] [trace] APP: MouseMovedEvent: 985, 44
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 989, 43
+[19:48:15] [trace] APP: MouseMovedEvent: 989, 43
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 995, 41
+[19:48:15] [trace] APP: MouseMovedEvent: 995, 41
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 999, 40
+[19:48:15] [trace] APP: MouseMovedEvent: 999, 40
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1005, 39
+[19:48:15] [trace] APP: MouseMovedEvent: 1005, 39
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1009, 38
+[19:48:15] [trace] APP: MouseMovedEvent: 1009, 38
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1015, 36
+[19:48:15] [trace] APP: MouseMovedEvent: 1015, 36
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1024, 34
+[19:48:15] [trace] APP: MouseMovedEvent: 1024, 34
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1029, 34
+[19:48:15] [trace] APP: MouseMovedEvent: 1029, 34
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1035, 32
+[19:48:15] [trace] APP: MouseMovedEvent: 1035, 32
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1041, 31
+[19:48:15] [trace] APP: MouseMovedEvent: 1041, 31
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1051, 29
+[19:48:15] [trace] APP: MouseMovedEvent: 1051, 29
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1056, 28
+[19:48:15] [trace] APP: MouseMovedEvent: 1056, 28
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1062, 27
+[19:48:15] [trace] APP: MouseMovedEvent: 1062, 27
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1066, 27
+[19:48:15] [trace] APP: MouseMovedEvent: 1066, 27
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1076, 26
+[19:48:15] [trace] APP: MouseMovedEvent: 1076, 26
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1081, 25
+[19:48:15] [trace] APP: MouseMovedEvent: 1081, 25
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1085, 25
+[19:48:15] [trace] APP: MouseMovedEvent: 1085, 25
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1091, 24
+[19:48:15] [trace] APP: MouseMovedEvent: 1091, 24
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1095, 24
+[19:48:15] [trace] APP: MouseMovedEvent: 1095, 24
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1101, 23
+[19:48:15] [trace] APP: MouseMovedEvent: 1101, 23
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1106, 23
+[19:48:15] [trace] APP: MouseMovedEvent: 1106, 23
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1111, 22
+[19:48:15] [trace] APP: MouseMovedEvent: 1111, 22
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1120, 22
+[19:48:15] [trace] APP: MouseMovedEvent: 1120, 22
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1130, 21
+[19:48:15] [trace] APP: MouseMovedEvent: 1130, 21
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1134, 20
+[19:48:15] [trace] APP: MouseMovedEvent: 1134, 20
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1139, 20
+[19:48:15] [trace] APP: MouseMovedEvent: 1139, 20
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1144, 19
+[19:48:15] [trace] APP: MouseMovedEvent: 1144, 19
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1150, 18
+[19:48:15] [trace] APP: MouseMovedEvent: 1150, 18
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1155, 18
+[19:48:15] [trace] APP: MouseMovedEvent: 1155, 18
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1206, 14
+[19:48:15] [trace] APP: MouseMovedEvent: 1206, 14
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1254, 11
+[19:48:15] [trace] APP: MouseMovedEvent: 1254, 11
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1256, 11
+[19:48:15] [trace] APP: MouseMovedEvent: 1256, 11
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1261, 11
+[19:48:15] [trace] APP: MouseMovedEvent: 1261, 11
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1263, 11
+[19:48:15] [trace] APP: MouseMovedEvent: 1263, 11
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1265, 10
+[19:48:15] [trace] APP: MouseMovedEvent: 1265, 10
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1267, 10
+[19:48:15] [trace] APP: MouseMovedEvent: 1267, 10
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1269, 9
+[19:48:15] [trace] APP: MouseMovedEvent: 1269, 9
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1272, 9
+[19:48:15] [trace] APP: MouseMovedEvent: 1272, 9
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1274, 9
+[19:48:15] [trace] APP: MouseMovedEvent: 1274, 9
+[19:48:15] [trace] HYDRO: MouseMovedEvent: 1276, 9
+[19:48:15] [trace] APP: MouseMovedEvent: 1276, 9
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:15] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [info] APP: Example Layer::Update
+[19:48:16] [trace] HYDRO: WindowClose

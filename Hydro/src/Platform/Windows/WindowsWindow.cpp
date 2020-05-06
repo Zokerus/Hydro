@@ -5,6 +5,8 @@
 #include "Hydro/Events/KeyEvent.h"
 #include "Hydro/Events/MouseEvent.h"
 
+#include "glad/glad.h"
+
 namespace Hydro {
 	static bool s_GLFWInitialized = false;
 	
@@ -48,6 +50,8 @@ namespace Hydro {
 
 		m_Window = glfwCreateWindow((int)props.Width, (int)props.Height, props.Title.c_str(), nullptr, nullptr);
 		glfwMakeContextCurrent(m_Window);
+		int status = gladLoadGLLoader((GLADloadproc)glfwGetProcAddress);
+		HD_CORE_ASSERT(status, "Failed to initialize Glad!");
 		glfwSetWindowUserPointer(m_Window, &m_Data);
 		SetVSync(true);
 

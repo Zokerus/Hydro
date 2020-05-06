@@ -1,5 +1,6 @@
 workspace "Hydro"
 	architecture "x64"
+	startproject "Sandbox"
 	
 	configurations
 	{
@@ -13,10 +14,10 @@ outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 -- Include directories relative to root directory
 IncludeDir = {}
 IncludeDir["GLFW"] = "Hydro/vendor/GLFW/include"
+IncludeDir["Glad"] = "Hydro/vendor/GLAD/include"
 
 include "Hydro/vendor/GLFW"
-
--- startproject "Sandbox"
+include "Hydro/vendor/Glad"
 	
 project "Hydro"
 	location "Hydro"
@@ -39,12 +40,14 @@ project "Hydro"
 	{
 		"%{prj.name}/src",
 		"%{prj.name}/vendor/spdlog/include",
-		"%{IncludeDir.GLFW}"
+		"%{IncludeDir.GLFW}",
+		"%{IncludeDir.Glad}"
 	}
 	
 	links
 	{
 		"GLFW",
+		"Glad",
 		"opengl32.lib"
 	}
 	
@@ -56,7 +59,8 @@ project "Hydro"
 		defines
 		{
 			"HD_PLATFORM_WINDOWS",
-			"HD_BUILD_DLL"
+			"HD_BUILD_DLL",
+			"GLFW_INCLUDE_NONE"
 		}
 		
 	filter "configurations:Debug"

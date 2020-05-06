@@ -6,6 +6,8 @@
 #include "Hydro/Layer.h"
 #include "Hydro/Log.h"
 
+#include "Hydro/ImGui/ImGuiLayer.h"
+
 //--EntryPoint---------------------------
 #include "Hydro/EntryPoint.h"
 //---------------------------------------
